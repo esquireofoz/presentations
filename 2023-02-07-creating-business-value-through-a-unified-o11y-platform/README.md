@@ -29,5 +29,8 @@
 ## Resources
 [Meetup Link](https://www.meetup.com/elastic-new-york-city-user-group/events/290459144/)
 
+## Meetup Pictures
+![](images/IMG_6074.jpg) | ![](images/IMG_8059.png)
+
 ## Recording
 https://youtu.be/EYPyEmgEVAQ
