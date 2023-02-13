@@ -30,4 +30,4 @@
 [Meetup Link](https://www.meetup.com/elastic-new-york-city-user-group/events/290459144/)
 
 ## Recording
-
+https://youtu.be/EYPyEmgEVAQ
